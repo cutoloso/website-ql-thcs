@@ -1,0 +1,36 @@
+
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	max-width: 100%;
+	margin: auto;
+	text-align: center;
+}
+
+.title {
+	color: grey;
+}
+
+button {
+	border: none;
+	outline: 0;
+	display: inline-block;
+	padding: 8px;
+	color: white;
+	background-color: #000;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+#avatar{
+	padding: 1.5em 0;
+	width: 100%;
+}
+.profile{
+	padding: 1.5em 0;
+}
+
